@@ -322,8 +322,21 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
 	           (<a href="http://wwwisg.cs.uni-magdeburg.de/bv/pub/pdf/TR-ISGBV-03-02.pdf">PDF</a>)</li>
           </ol>
 
+
           <h3>Published Books Information </h3>
-			<div id="feature">
+	<div id="feature">
+	         <a href="https://link.springer.com/book/10.1007%2F978-3-319-90403-0">
+             	 <img src="/img/tml_book.jpg" class="alignleft" alt="clm_book.jpg" width="120" height="160"></a>
+              	 <h4>Human and Machine Learning:Visible, Explainable, Trustworthy and Transparent </h4>
+                 <p>
+                  <b>Jianlong Zhou</b> and Fang Chen.<br> 
+		        Springer, 2018, 482pp. ISBN: 978-3-319-90402-0.<br>
+                    Available on <a href="https://link.springer.com/book/10.1007%2F978-3-319-90403-0">Springer</a>.
+                  </p>
+                  <hr>
+                </div>
+	
+	<div id="feature">
 	         <a href="http://link.springer.com/book/10.1007%2F978-3-319-31700-7#page-1">
               <img src="/img/clm_book.jpg" class="alignleft" alt="clm_book.jpg" width="120" height="160"></a>
               <h4>Robust Multimodal Cognitive Load Measurement </h4>
@@ -333,9 +346,9 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
                     Available on <a href="http://link.springer.com/book/10.1007%2F978-3-319-31700-7#page-1">Springer</a>.
                   </p>
                   <hr>
-                </div>
-				
-			<div id="feature">
+                </div>				
+			
+	<div id="feature">
 	         <a href="http://www.amazon.com/Gaining-Insights-Into-Volumetric-Visualization/dp/3659134848/ref=sr_1_1?ie=UTF8&amp;qid=1338002123&amp;sr=8-1">
               <img src="/img/amazon_cover.jpg" class="alignleft" alt="amazon_cover.jpg" width="120" height="160"></a>
               <h4>Gaining Insights Into Volumetric Data Visualization:  
